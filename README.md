@@ -9,8 +9,7 @@ Assalomu aleykum
 
 # My GitHub contributions as a Game of Life
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
-
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](
 (Be sure to click on it for the infinite scrolling version.)
 
 ### What's this?
