@@ -1,43 +1,32 @@
-# Hey there :wave:
+Assalomu aleykum
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Salom dunyo">
 
 <p align="center"> 
-  Visitor count<br>
+  Ko'ruvchilar soni<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-## About me
+## Men haqimda
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+Men Izzatbek Ulkanov. Python bo'yicha Developerman. :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover.  sevgilisi. 
 
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+Vaqt-vaqti bilan android haqida blog yozaman va tweetlar yuboraman. Shuningdek, bir nechta android bilan bog'liq narsalarni ochiq manba sifatida nashr qildim.
 
+## Men qiziqishlardan
 
-## Things I am passionate about
+- Python :Django
+- Ochiq manba :octocat:
 
-- Android :robot:
-- Open source :octocat:
+## Bog'lanish :coffee:
 
-## Get in touch :coffee:
+- Python bilan bog'liq narsalarni va texnikaviy narsalarni umumiy sarguzasht etish uchun kelajak do'stingiz bo'lishim mumkin: [Twitter](https://twitter.com/izzatbekulkanov).
+- Kelajak ishchisi bo'lishim mumkin: [LinkedIn](https://www.linkedin.com/in/izzatbekulkanov)
+- Va albatta, GitHub-da allaqachon turingiz (Rekursiya).
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/izzatbekulkanov)
-- And of course GitHub you're already on (Recursion).
+Ushbu masalalar haqida ma'lumot olish uchun quyidagi ideyalardan foydalanishingiz mumkin:
 
+- 🌱 Hozir o'rganayapman ...
+- 💬 Men bilan suhbatlashing ...
+- 📫 Menga qanday qilib murojaat qilish mumkin: ...
 
-<!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
