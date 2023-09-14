@@ -6,7 +6,7 @@ Assalomu aleykum
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izzatbekulkanov&theme=dracula" alt="izzatbekulkanov" /></a> </p>
 
 
-- 📫 How to reach me **auz.offical@gmail.com**
+- 📫 How to reach me **izzatbekulkanov@gmail.com**
 
 <div> <a href="https://twitter.com/izzatbekulkanov" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/izzatbekulkanov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
